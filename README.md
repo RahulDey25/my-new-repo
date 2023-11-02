@@ -1,4 +1,4 @@
 # my-new-repo
 This is my repo.
 <br>
-Author - Rahul Dey
+Author - Rahul Kumar Dey
